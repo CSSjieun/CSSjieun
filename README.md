@@ -1,4 +1,4 @@
-![image](https://github.com/CSSjieun/CSSjieun/assets/152406885/426ad9ee-b66f-4ed9-bd3c-bba2dc10a9c6)Hi!
+Hi!
 
 I am Jieun Park 
 
