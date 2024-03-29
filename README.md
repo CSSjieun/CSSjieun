@@ -1,6 +1,13 @@
-Hi!
+![image](https://github.com/CSSjieun/CSSjieun/assets/152406885/426ad9ee-b66f-4ed9-bd3c-bba2dc10a9c6)Hi!
 
 I am Jieun Park 
+
+🇪🇸 I'm staying in Madrid, Spain.
+
+- 📚 I'm currently doing my master's in **computation social science** at Universidad Carlos III de Madrid.
+- 🎓 I graduated from Universitat Autònoma de Barcelona for master's degree of **political science**.
+- This is my repositories for my studies and codes. 👩🏻‍💻
+
 
 <!--
 **CSSjieun/CSSjieun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
