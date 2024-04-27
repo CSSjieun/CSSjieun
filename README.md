@@ -8,6 +8,12 @@ I am Jieun Park
 - 🎓 I graduated from Universitat Autònoma de Barcelona for master's degree of **political science**.
 - This is my repositories for my studies and codes. 👩🏻‍💻
 
+- I am currently studying languages of:
+  Java
+  Python
+  R
+  SQL
+
 
 <!--
 **CSSjieun/CSSjieun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
