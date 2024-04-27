@@ -9,10 +9,10 @@ I am Jieun Park
 - This is my repositories for my studies and codes. 👩🏻‍💻
 
 - I am currently studying languages of: <br>
-  💻 Java <br>
-  💻 Python <br>
-  💻 R <br>
-  💻 SQL <br>
+  📙 Java <br>
+  📘 Python <br>
+  📗 R <br>
+  📕 SQL <br>
 
 
 <!--
