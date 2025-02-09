@@ -2,7 +2,7 @@ Hi!
 
 I am Jieun Park 
 
-🇰🇷 I'm studying in Seoul, Korea.
+🇰🇷 I'm studying in Seoul, Korea. <br>
 🇪🇸 I studied in Madrid and Barcleona, Spain.
 
 - 📖 I am currently studying **Sociology** at Yonsei University in Seoul, Korea.
