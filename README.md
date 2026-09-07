@@ -2,10 +2,10 @@ Hi!
 
 I am Jieun Park 
 
-🇰🇷 I'm studying in Seoul, Korea. <br>
+🇰🇷 Now, I'm studying in Seoul, Korea. <br>
 🇪🇸 I studied in Madrid and Barcleona, Spain.
 
-- 📖 I am currently studying **Sociology** at Yonsei University in Seoul, Korea.
+- 📖 I am currently studying **Sociology** at Seoul National University, Seoul, Korea.
 - 🎓 I graduated from Universidad Carlos III de Madrid for master's in **computation social science**.
 - 🎓 I graduated from Universitat Autònoma de Barcelona for master's degree of **political science**.
 - This is my repositories for my studies and codes. 👩🏻‍💻
